@@ -9,6 +9,7 @@ O desafio era modelar e desenvolver um `diagrama UML` para representar o compone
 Foi oferecido ao desafiante o [vídeo de apresentação do iPhone](https://www.youtube.com/watch?v=9ou608QQRq8&t=3163s&ab_channel=TuchilaRino), que é recomendado para ***todo*** desenvolvedor assistir.
 <br><br>
 Nesse desafio, o desenvolvedor deveria abordar os três elementos principal que Jobs apresentou no anúncio do iPhone: `Reprodutor Musical`, `Aparelho Telefônico` e `Navegador na Internet`.<br>
+Vale mencionar que a ideia principal é apresentar o **ALGORITMO** neste repositório! Não tem, de fato, um iPhone por aqui 😆 <br>
 Segue o `diagrama UML`, feito através do [Mermaid](https://mermaid.js.org/):
 
 ```mermaid
