@@ -45,6 +45,11 @@ classDiagram
     style ReprodutorMusical fill:green,stroke:#333,stroke-width:4px,color:black
     style AparelhoTelefonico fill:green,stroke:#333,stroke-width:4px,color:black
     style NavegadorInternet fill:green,stroke:#333,stroke-width:4px,color:black
+
+link iPhone "https://github.com/MiguelitoJLY/Modelagem-Diagramacao-iPhone/blob/main/src/org/celular/IPhone.java"
+link ReprodutorMusical "https://github.com/MiguelitoJLY/Modelagem-Diagramacao-iPhone/blob/main/src/org/reprodutorMusical/ReprodutorMusical.java"
+link AparelhoTelefonico "https://github.com/MiguelitoJLY/Modelagem-Diagramacao-iPhone/blob/main/src/org/aparelhoTelefonico/AparelhoTelefonico.java"
+link NavegadorInternet "https://github.com/MiguelitoJLY/Modelagem-Diagramacao-iPhone/blob/main/src/org/navegadorInternet/NavegadorInternet.java"
 ```
 
 Era **OPCIONAL** o desenvolvimento da implementação deste diagrama nas classes Java, mas o mesmo foi feito por mim neste desafio!
